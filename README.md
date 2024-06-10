@@ -4,11 +4,11 @@ A fun project that uses the OpenAI TTS (text-to-speech) model to read selected t
 As of June 2024, the OpenAI TTS model is [priced](https://openai.com/api/pricing/) at $15 per 1 million characters processed.
 
 ## How It Works
-Select some text on a webpage or in the Apple Notes app, for example, and press the keyboard shortcut you defined. A window will appear letting you know how much the request will cost. 
+Select some text on a webpage or in the Apple Notes app, for example, and press the keyboard shortcut you defined. A window will appear letting you know how much the request will cost. (You can easily disable this feature if you want.)
 
 <img width="470" alt="cost" src="https://github.com/ryan-d-gordon/mac-openai-text-to-speech/assets/50992194/76ea01cf-fed3-4ee9-a766-5f5c2308aff6">
 
-If you press continue, after a few seconds, the OpenAI-generated audio will start playing out of your system's default audio output.
+If you press continue, after a few seconds, the OpenAI-generated audio will start playing out of your system's default audio output and reading your text aloud.
 <br>
 <br> 
 
