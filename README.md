@@ -22,8 +22,8 @@ I'm using a combination of Python and Apple Scripts, plus an Automator Workflow 
 
 ## Setup and Install
 1. If you don't already have one, sign up for an OpenAI account and generate an API key. See their [quickstart guide](https://platform.openai.com/docs/quickstart) for more info.
-2. Download both Python scripts `openai-text-to-speech.py` and `openai-tts-cost-estimator.py` and the `OpenAI Text to Speech.zip` file containing the Automator Workflow from this repo.
-3. Install the OpenAI Python library `pip install openai`
+2. Install the OpenAI Python library `pip install openai`
+3. Download both Python scripts `openai-text-to-speech.py` and `openai-tts-cost-estimator.py` and the `OpenAI Text to Speech.zip` file containing the Automator Workflow from this repo.
 4. Open `openai-text-to-speech.py` and replace `YOUR_OPENAI_API_KEY_GOES_HERE` with your OpenAI API key.
 5. Place both Python scripts in `/usr/local/bin`.
 6. Unzip the `OpenAI Text to Speech.zip` file and double click the `OpenAI Text to Speech.workflow` file to install it as a System Quick Action, or right click and open it with Automator to modify it to your liking first.
