@@ -35,3 +35,20 @@ I'm using a combination of Python and Apple Scripts, plus an Automator Workflow 
 <br> You can also run the Quick Action/Service by right clicking on any selected text, and selecting the action from the `Services` menu option:
 
 <img width="532" alt="Screenshot 2024-06-10 at 1 02 47 AM" src="https://github.com/ryan-d-gordon/mac-openai-text-to-speech/assets/50992194/d018055e-e8c8-417c-8eca-836e2028a80f">
+
+---
+
+## つくった人
+
+ブラックにゃー（blacknyaa）— 大阪のフリーランスAIエンジニアです。生成AI×Web開発を軸に、業務システムとWebサイトを受託で作っています。
+
+| | |
+|---|---|
+| ランサーズ | [ブラックにゃー (Ponta-0363)](https://www.lancers.jp/profile/Ponta-0363) |
+| note | [note.com/blacknyaa](https://note.com/blacknyaa) |
+| Qiita | [qiita.com/blacknyaa](https://qiita.com/blacknyaa) |
+| Zenn | [zenn.dev/blacknyaa](https://zenn.dev/blacknyaa) |
+| YOUTRUST | [youtrust.jp/users/blacknyaa](https://youtrust.jp/users/blacknyaa) |
+| GitHub | [github.com/blacknyaa](https://github.com/blacknyaa) |
+
+お仕事のご相談は、ランサーズ経由でも直接でも受けています。NDAも対応します。
