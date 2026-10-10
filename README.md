@@ -38,17 +38,21 @@ I'm using a combination of Python and Apple Scripts, plus an Automator Workflow 
 
 ---
 
+
+---
+
 ## つくった人
 
-ブラックにゃー（blacknyaa）— 大阪のフリーランスAIエンジニアです。生成AI×Web開発を軸に、業務システムとWebサイトを受託で作っています。
+図美楽（ずみらく / zumiraku）— 大阪のフリーランスAIエンジニアです。生成AI×Web開発を軸に、業務システムとWebサイトを受託で作っています。
 
-| | |
-|---|---|
-| ランサーズ | [ブラックにゃー (Ponta-0363)](https://www.lancers.jp/profile/Ponta-0363) |
-| note | [note.com/blacknyaa](https://note.com/blacknyaa) |
-| Qiita | [qiita.com/blacknyaa](https://qiita.com/blacknyaa) |
-| Zenn | [zenn.dev/blacknyaa](https://zenn.dev/blacknyaa) |
-| YOUTRUST | [youtrust.jp/users/blacknyaa](https://youtrust.jp/users/blacknyaa) |
-| GitHub | [github.com/blacknyaa](https://github.com/blacknyaa) |
+| 媒体 | リンク | 表示名 |
+|---|---|---|
+| note | [note.com/zumiraku](https://note.com/zumiraku) | 図美楽 |
+| Qiita | [qiita.com/zumiraku](https://qiita.com/zumiraku) | ずみらく |
+| Zenn | [zenn.dev/zumiraku](https://zenn.dev/zumiraku) | ズミラク |
+| YOUTRUST | [youtrust.jp/users/zumiraku](https://youtrust.jp/users/zumiraku) | 図ミラク |
+| GitHub | [github.com/zumiraku](https://github.com/zumiraku) | 図美楽 |
 
-お仕事のご相談は、ランサーズ経由でも直接でも受けています。NDAも対応します。
+表記は媒体によって揺れていますが、どれも同じ人間です。英字は zumiraku で統一しています。
+
+お仕事のご相談は直接お寄せください。NDAも対応します。
