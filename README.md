@@ -43,7 +43,7 @@ I'm using a combination of Python and Apple Scripts, plus an Automator Workflow 
 
 ## つくった人
 
-図美楽（ずみらく / zumiraku）— 大阪のフリーランスAIエンジニアです。生成AI×Web開発を軸に、業務システムとWebサイトを受託で作っています。
+図美楽（ずみらく / zumiraku）— フリーランスのAIエンジニアです。生成AI×Web開発を軸に、業務システムとWebサイトを受託で作っています。
 
 | 媒体 | リンク | 表示名 |
 |---|---|---|
